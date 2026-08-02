@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/NeedhiPatil/leetcode-submissions/tree/master/0075-sort-colors) |
 | [0151-reverse-words-in-a-string](https://github.com/NeedhiPatil/leetcode-submissions/tree/master/0151-reverse-words-in-a-string) |
 | [0189-rotate-array](https://github.com/NeedhiPatil/leetcode-submissions/tree/master/0189-rotate-array) |
+| [0202-happy-number](https://github.com/NeedhiPatil/leetcode-submissions/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/NeedhiPatil/leetcode-submissions/tree/master/0283-move-zeroes) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/NeedhiPatil/leetcode-submissions/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Math
@@ -32,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/NeedhiPatil/leetcode-submissions/tree/master/0009-palindrome-number) |
 | [0066-plus-one](https://github.com/NeedhiPatil/leetcode-submissions/tree/master/0066-plus-one) |
 | [0189-rotate-array](https://github.com/NeedhiPatil/leetcode-submissions/tree/master/0189-rotate-array) |
+| [0202-happy-number](https://github.com/NeedhiPatil/leetcode-submissions/tree/master/0202-happy-number) |
 | [0509-fibonacci-number](https://github.com/NeedhiPatil/leetcode-submissions/tree/master/0509-fibonacci-number) |
 | [1903-largest-odd-number-in-string](https://github.com/NeedhiPatil/leetcode-submissions/tree/master/1903-largest-odd-number-in-string) |
 ## Bit Manipulation
@@ -44,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/NeedhiPatil/leetcode-submissions/tree/master/0001-two-sum) |
 | [0128-longest-consecutive-sequence](https://github.com/NeedhiPatil/leetcode-submissions/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/NeedhiPatil/leetcode-submissions/tree/master/0169-majority-element) |
+| [0202-happy-number](https://github.com/NeedhiPatil/leetcode-submissions/tree/master/0202-happy-number) |
 ## Sorting
 |  |
 | ------- |
