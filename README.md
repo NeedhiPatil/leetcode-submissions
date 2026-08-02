@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/NeedhiPatil/leetcode-submissions/tree/master/0009-palindrome-number) |
 | [0066-plus-one](https://github.com/NeedhiPatil/leetcode-submissions/tree/master/0066-plus-one) |
 | [0189-rotate-array](https://github.com/NeedhiPatil/leetcode-submissions/tree/master/0189-rotate-array) |
+| [0509-fibonacci-number](https://github.com/NeedhiPatil/leetcode-submissions/tree/master/0509-fibonacci-number) |
 | [1903-largest-odd-number-in-string](https://github.com/NeedhiPatil/leetcode-submissions/tree/master/1903-largest-odd-number-in-string) |
 ## Bit Manipulation
 |  |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/NeedhiPatil/leetcode-submissions/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0509-fibonacci-number](https://github.com/NeedhiPatil/leetcode-submissions/tree/master/0509-fibonacci-number) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -82,4 +84,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1903-largest-odd-number-in-string](https://github.com/NeedhiPatil/leetcode-submissions/tree/master/1903-largest-odd-number-in-string) |
+## Recursion
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/NeedhiPatil/leetcode-submissions/tree/master/0509-fibonacci-number) |
+## Memoization
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/NeedhiPatil/leetcode-submissions/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
