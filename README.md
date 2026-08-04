@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/NeedhiPatil/leetcode-submissions/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/NeedhiPatil/leetcode-submissions/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/NeedhiPatil/leetcode-submissions/tree/master/0485-max-consecutive-ones) |
+| [0724-find-pivot-index](https://github.com/NeedhiPatil/leetcode-submissions/tree/master/0724-find-pivot-index) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/NeedhiPatil/leetcode-submissions/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Two Pointers
 |  |
@@ -109,4 +110,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/NeedhiPatil/leetcode-submissions/tree/master/0056-merge-intervals) |
+## Prefix Sum
+|  |
+| ------- |
+| [0724-find-pivot-index](https://github.com/NeedhiPatil/leetcode-submissions/tree/master/0724-find-pivot-index) |
 <!---LeetCode Topics End-->
