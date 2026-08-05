@@ -32,3 +32,5 @@ class Solution {
         return true;
     }
 }
+
+// TC & SC- O(n)
