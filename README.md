@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/NeedhiPatil/leetcode-submissions/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/NeedhiPatil/leetcode-submissions/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/NeedhiPatil/leetcode-submissions/tree/master/0217-contains-duplicate) |
+| [0219-contains-duplicate-ii](https://github.com/NeedhiPatil/leetcode-submissions/tree/master/0219-contains-duplicate-ii) |
 | [0283-move-zeroes](https://github.com/NeedhiPatil/leetcode-submissions/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/NeedhiPatil/leetcode-submissions/tree/master/0485-max-consecutive-ones) |
 | [0724-find-pivot-index](https://github.com/NeedhiPatil/leetcode-submissions/tree/master/0724-find-pivot-index) |
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/NeedhiPatil/leetcode-submissions/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/NeedhiPatil/leetcode-submissions/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/NeedhiPatil/leetcode-submissions/tree/master/0217-contains-duplicate) |
+| [0219-contains-duplicate-ii](https://github.com/NeedhiPatil/leetcode-submissions/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/NeedhiPatil/leetcode-submissions/tree/master/0242-valid-anagram) |
 ## Sorting
 |  |
@@ -132,4 +134,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/NeedhiPatil/leetcode-submissions/tree/master/0014-longest-common-prefix) |
+## Sliding Window
+|  |
+| ------- |
+| [0219-contains-duplicate-ii](https://github.com/NeedhiPatil/leetcode-submissions/tree/master/0219-contains-duplicate-ii) |
 <!---LeetCode Topics End-->
