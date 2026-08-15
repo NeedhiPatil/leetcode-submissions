@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/NeedhiPatil/leetcode-submissions/tree/master/0283-move-zeroes) |
 | [0347-top-k-frequent-elements](https://github.com/NeedhiPatil/leetcode-submissions/tree/master/0347-top-k-frequent-elements) |
 | [0485-max-consecutive-ones](https://github.com/NeedhiPatil/leetcode-submissions/tree/master/0485-max-consecutive-ones) |
+| [0496-next-greater-element-i](https://github.com/NeedhiPatil/leetcode-submissions/tree/master/0496-next-greater-element-i) |
 | [0724-find-pivot-index](https://github.com/NeedhiPatil/leetcode-submissions/tree/master/0724-find-pivot-index) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/NeedhiPatil/leetcode-submissions/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Two Pointers
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/NeedhiPatil/leetcode-submissions/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/NeedhiPatil/leetcode-submissions/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/NeedhiPatil/leetcode-submissions/tree/master/0347-top-k-frequent-elements) |
+| [0496-next-greater-element-i](https://github.com/NeedhiPatil/leetcode-submissions/tree/master/0496-next-greater-element-i) |
 ## Sorting
 |  |
 | ------- |
@@ -125,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0155-min-stack](https://github.com/NeedhiPatil/leetcode-submissions/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/NeedhiPatil/leetcode-submissions/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/NeedhiPatil/leetcode-submissions/tree/master/0232-implement-queue-using-stacks) |
+| [0496-next-greater-element-i](https://github.com/NeedhiPatil/leetcode-submissions/tree/master/0496-next-greater-element-i) |
 | [1021-remove-outermost-parentheses](https://github.com/NeedhiPatil/leetcode-submissions/tree/master/1021-remove-outermost-parentheses) |
 ## Union-Find
 |  |
@@ -211,4 +214,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/NeedhiPatil/leetcode-submissions/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/NeedhiPatil/leetcode-submissions/tree/master/0232-implement-queue-using-stacks) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/NeedhiPatil/leetcode-submissions/tree/master/0496-next-greater-element-i) |
 <!---LeetCode Topics End-->
