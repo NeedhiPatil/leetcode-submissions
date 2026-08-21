@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/NeedhiPatil/leetcode-submissions/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/NeedhiPatil/leetcode-submissions/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/NeedhiPatil/leetcode-submissions/tree/master/0219-contains-duplicate-ii) |
+| [0268-missing-number](https://github.com/NeedhiPatil/leetcode-submissions/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/NeedhiPatil/leetcode-submissions/tree/master/0283-move-zeroes) |
 | [0347-top-k-frequent-elements](https://github.com/NeedhiPatil/leetcode-submissions/tree/master/0347-top-k-frequent-elements) |
 | [0485-max-consecutive-ones](https://github.com/NeedhiPatil/leetcode-submissions/tree/master/0485-max-consecutive-ones) |
@@ -54,12 +55,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/NeedhiPatil/leetcode-submissions/tree/master/0066-plus-one) |
 | [0189-rotate-array](https://github.com/NeedhiPatil/leetcode-submissions/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/NeedhiPatil/leetcode-submissions/tree/master/0202-happy-number) |
+| [0268-missing-number](https://github.com/NeedhiPatil/leetcode-submissions/tree/master/0268-missing-number) |
 | [0509-fibonacci-number](https://github.com/NeedhiPatil/leetcode-submissions/tree/master/0509-fibonacci-number) |
 | [1903-largest-odd-number-in-string](https://github.com/NeedhiPatil/leetcode-submissions/tree/master/1903-largest-odd-number-in-string) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [0136-single-number](https://github.com/NeedhiPatil/leetcode-submissions/tree/master/0136-single-number) |
+| [0268-missing-number](https://github.com/NeedhiPatil/leetcode-submissions/tree/master/0268-missing-number) |
 ## Hash Table
 |  |
 | ------- |
@@ -74,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/NeedhiPatil/leetcode-submissions/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/NeedhiPatil/leetcode-submissions/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/NeedhiPatil/leetcode-submissions/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/NeedhiPatil/leetcode-submissions/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/NeedhiPatil/leetcode-submissions/tree/master/0347-top-k-frequent-elements) |
 | [0496-next-greater-element-i](https://github.com/NeedhiPatil/leetcode-submissions/tree/master/0496-next-greater-element-i) |
 ## Sorting
@@ -86,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/NeedhiPatil/leetcode-submissions/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/NeedhiPatil/leetcode-submissions/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/NeedhiPatil/leetcode-submissions/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/NeedhiPatil/leetcode-submissions/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/NeedhiPatil/leetcode-submissions/tree/master/0347-top-k-frequent-elements) |
 ## Dynamic Programming
 |  |
@@ -180,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0035-search-insert-position](https://github.com/NeedhiPatil/leetcode-submissions/tree/master/0035-search-insert-position) |
 | [0162-find-peak-element](https://github.com/NeedhiPatil/leetcode-submissions/tree/master/0162-find-peak-element) |
+| [0268-missing-number](https://github.com/NeedhiPatil/leetcode-submissions/tree/master/0268-missing-number) |
 | [0278-first-bad-version](https://github.com/NeedhiPatil/leetcode-submissions/tree/master/0278-first-bad-version) |
 | [0374-guess-number-higher-or-lower](https://github.com/NeedhiPatil/leetcode-submissions/tree/master/0374-guess-number-higher-or-lower) |
 ## Interactive
